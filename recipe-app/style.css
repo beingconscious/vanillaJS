@@ -35,3 +35,9 @@ header input {
 	border-radius: 3px;
 	padding:0.5rem 1rem;
 }
+
+header button {
+	background-color: transparent;
+	color: #eee;
+	font-size: 2rem;
+}
