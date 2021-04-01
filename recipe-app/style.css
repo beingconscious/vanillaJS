@@ -30,6 +30,7 @@ header {
 }
 
 header input {
+	background-color: #eee;
 	border: none;
 	border-radius: 3px;
 	padding:0.5rem 1rem;
