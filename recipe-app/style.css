@@ -38,6 +38,8 @@ header input {
 
 header button {
 	background-color: transparent;
-	color: #eee;
+	border: none;
+	color: #aaa;
 	font-size: 2rem;
+	margin-left: 10px;
 }
